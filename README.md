@@ -1,5 +1,9 @@
 # Ciao! <img src="https://raw.githubusercontent.com/ildac/ildac/main/wave.gif" width="30px">
 
+## Currently learning
+- Getting better at <a href="https://www.keybr.com/" target="_blank">keyboard</a> <a href="https://www.typingclub.com/" target="_blank">typing</a>
+
+## Project
 
 
 <!--
