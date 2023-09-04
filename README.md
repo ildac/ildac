@@ -5,10 +5,10 @@
 - Caring, about others well being
 - Option-oriented, look for and suggest different ways of doing things
 - Helpful, give assistance to others who are in need
-
+<!--
 #### An area for development is:
 - 
-<!--
+
 #### 3 words people have used to describe me:
 - ...
 -->
